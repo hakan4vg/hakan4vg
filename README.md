@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hakan Avgin</h1>
-<h3 align="center">A trying to be developer working on small code snipplets in his free time</h3>
+<h3 align="center">A trying to be developer working on small code snippets in his free time</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hakan4vg&label=Profile%20views&color=0e75b6&style=flat" alt="hakan4vg" /> </p>
 
