@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hakan4vg&label=Profile%20views&color=0e75b6&style=flat" alt="hakan4vg" /> </p>
 
-- 🔭 I’m currently working on [Java-exercises](https://github.com/hakan4vg/Java-exercises)
+- 🔭 My code snippets that I do for fun can be found here: [Java-exercises](https://github.com/hakan4vg/Java-exercises)
 
-- 🌱 I’m currently learning **Data Structures with Java**
+- 🌱 I’m currently improving myself on **Machine learning, image processing and embedded systems**
 
 - 📫 How to reach me **hakan4vg@gmail.com / havgin20@posta.pau.edu.tr**
 
