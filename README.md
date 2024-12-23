@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hakan4vg&label=Profile%20views&color=0e75b6&style=flat" alt="hakan4vg" /> </p>
 
-- 🔭 My code snippets that I do for fun can be found here: [Java-exercises](https://github.com/hakan4vg/Java-exercises)
+- 🔭 My main project that I work on in my free time is : [emu8086](https://github.com/hakan4vg/emu8086) Which is an 8086 emulator written in C++
 
-- 🌱 I’m currently improving myself on **Machine learning, image processing and embedded systems**
+- 🌱 I’m currently improving myself on **Low level Programming, Operating Systems, CPU Architectures and Embedded Systems**
 
 - 📫 How to reach me **hakan4vg@gmail.com / havgin20@posta.pau.edu.tr**
-
-- ⚡ Fun fact **I would be a way better developer if I wasn't constantly watching movies.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
