@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently improving myself on **Low level Programming, Operating Systems, CPU Architectures and Embedded Systems**
 
+- My commit graph after June 6th, 2025 might be susceptible to noise, I'm trying ChatGPT's Codex and it shouldn't be considered as active working.
+
 
 
 
