@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hakan4vg&label=Profile%20views&color=0e75b6&style=flat" alt="hakan4vg" /> </p>
 
-- 🔭 My main project that I work on in my free time is : [emu8086](https://github.com/hakan4vg/emu8086) Which is an 8086 emulator written in C++
-
 - 🌱 I’m currently improving myself on **Low level Programming, Operating Systems, CPU Architectures and Embedded Systems**
 
-- My commit graph after June 6th, 2025 might be susceptible to noise, I'm trying ChatGPT's Codex and it shouldn't be considered as active working.
+- My commit graph after June 6th, 2025 might be susceptible to noise, I'm utilizing various agentic harnesses across different projects and it shouldn't be considered as active working per se.
 
 
 
